@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="animation: fadeIn 2.5s ease-out;">
-  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  
   <a href="https://www.linkedin.com/in/malinga-bandara-670095145/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://github.com/zukoo52"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
@@ -99,8 +99,9 @@
 ## 📚 Continuous Learning
 
 <p style="animation: fadeInUp 6s ease-out;">
-  I’m a strong advocate for lifelong learning and am always up-to-date with the latest trends in cloud computing, AI integration, and mobile app development. Currently, I’m diving deeper into Node.js and React.js to broaden my skill set.
+  I’m committed to continuous learning and always stay updated with the latest advancements in web development, especially in Laravel, Vue.js, Nuxt.js, and full-stack web applications. Currently, I'm focused on enhancing my expertise in building robust websites, web applications, and scalable POS & ERP systems, optimizing performance, and ensuring seamless user experiences across various platforms.
 </p>
+
 
 ---
 
@@ -113,7 +114,7 @@
 ---
 
 <p style="animation: fadeInUp 7s ease-out;">
-  When I’m not coding, I enjoy weightlifting, exploring psychology and human development, and brainstorming innovative solutions to real-world problems.
+  When I’m not coding, I enjoy boxing and  weightlifting, exploring psychology and human development, and brainstorming innovative solutions to real-world problems.
 </p>
 
 ---
