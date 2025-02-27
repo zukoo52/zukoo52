@@ -1,49 +1,138 @@
-<h1 align="center">Hi 👋, I'm Malinga Bandara</h1>
-<h3 align="center">Graduate in Software Engineering | Full-Stack Developer | Passionate About Building Scalable Applications</h3>
+<head>
+  <style>
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zukoo52&label=Profile%20views&color=0e75b6&style=flat" alt="zukoo52" /> </p>
+    h1, h3, p, img {
+      animation: fadeIn 2s ease-out forwards;
+    }
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+    h1 {
+      animation-delay: 0.5s;
+    }
 
-- 🌱 I’m currently enhancing my skills in **Node.js**, **React.js**, and **Vue.js**.  
-- 💻 I've contributed to several web and mobile projects, specializing in **full-stack development**, **API integration**, and **responsive design**.
-- 🌟 Passionate about creating clean, maintainable, and scalable applications that solve real-world problems.
-- 📫 How to reach me: **vidura.dilshan@example.com**
+    h3 {
+      animation-delay: 1s;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/vidura-dilshan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/zukoo52" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/malingazuko52" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-</p>
+    p {
+      animation-delay: 1.5s;
+    }
 
-<h3 align="left">Technologies & Tools I Work With:</h3>
-<p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original-wordmark.svg" alt="vue" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-</p>
+    img {
+      animation-delay: 2s;
+    }
 
-<h3 align="left">Featured Projects:</h3>
-- **Online Tutor Booking System**: Developed a platform for students and teachers to interact, book lessons, and manage payments.
-- **Mushroom Detection System**: A machine learning model to identify poisonous mushrooms with a focus on safety and accuracy.
-- **Ceylon Lanka Tourism Website**: Designed a travel booking website for a Sri Lankan tourism company with online booking, seat reservations, and payment integration.
+    .tech-stack img {
+      transition: transform 0.3s ease;
+    }
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoo52&show_icons=true&locale=en&layout=compact" alt="zukoo52" /></p>
+    .tech-stack img:hover {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoo52&show_icons=true&locale=en" alt="zukoo52" /></p>
+<body>
+  <h1 align="center">
+    Hi 👋, I'm <span style="color: #00bfff;">Malinga Bandara</span>!
+  </h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zukoo52&" alt="zukoo52" /></p>
+  <h3 align="center">
+    Graduate in BICT (Hons) | Software Technology | South Eastern University of Sri Lanka
+  </h3>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=zukoo52&label=Profile%20views&color=0e75b6&style=flat" alt="zukoo52" />
+  </p>
+
+  <p align="center">
+    <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/malinga-bandara-670095145/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://github.com/zukoo52"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  </p>
+
+  ---
+
+  <div id="about-me">
+    <h2>🚀 About Me</h2>
+    <ul>
+      <li>🌱 <strong>Currently learning</strong>: Node.js, React.js, Cloud Computing</li>
+      <li>💼 <strong>Technologies</strong>: Full-stack Web Development, Mobile App Development, Cloud Services, UI/UX Design</li>
+      <li>📫 <strong>Reach me at</strong>: <a href="mailto:malingasadharuwan@gmail.com">malingasadharuwan@gmail.com</a></li>
+      <li>🎯 <strong>Future Focus</strong>: Building innovative solutions with a focus on cloud infrastructure and scalable app development.</li>
+    </ul>
+  </div>
+
+  ---
+
+  <div class="tech-stack">
+    <h2>💻 Languages & Tools</h2>
+    <p align="left">
+      <img src="https://img.shields.io/badge/-Node.js-8cc84b?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+    </p>
+  </div>
+
+  ---
+
+  <h2>🌟 Connect with Me</h2>
+  <p align="center">
+    <a href="https://codepen.io/malinga_suko" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
+    <a href="https://www.behance.net/malingazuko52" target="blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  </p>
+
+  ---
+
+  <h2>📊 GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zukoo52&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="Malinga's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukoo52&theme=radical" alt="Malinga's GitHub Streak" />
+  </p>
+
+  ---
+
+  <h2>🎨 My Design Portfolio</h2>
+  <p>Check out my design work on <a href="https://www.behance.net/malingazuko52" target="blank">Behance</a>.</p>
+
+  ---
+
+  <h2>🔮 Looking Ahead</h2>
+  <p>I aim to build solutions that have a real-world impact by leveraging technology, developing scalable web and mobile apps, and creating user-friendly, high-performance systems.</p>
+
+  ---
+
+  <footer>
+    <p> "Building the future, one line of code at a time."</p>
+  </footer>
+
+  ---
+
+  <h2>💬 Fun Facts</h2>
+  <ul>
+    <li>🎮 I enjoy playing Boxing, weight lifting.</li>
+    <li>🚀 I’m passionate about psychology, capacity building, mind and brain development, and software engineering.</li>
+    <li>🌍 I believe technology has the power to change the world for the better.</li>
+  </ul>
+
+  ---
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/malinga-bandara-670095145/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+
+</body>
